@@ -1,3 +1,5 @@
+
+
 # Discord Manga Bildirim Botu
 
 Bu proje, belirlenen bir web sitesini otomatik olarak izleyen ve yeni eklenen
